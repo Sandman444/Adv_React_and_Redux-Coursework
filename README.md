@@ -1,4 +1,5 @@
 Contains all work from the Udemy course "Advanced React and Redux"
+
 Instructor: Stephen Grider
 
 Topics Covered So Far:
